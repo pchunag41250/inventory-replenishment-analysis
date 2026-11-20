@@ -1,0 +1,10 @@
+PurchaseOrderID,StockItemID,StockItemName,snapshot_date,QuantityOnHand,avg_daily_units_sold,original_eta,original_wait_days,expedited_eta,expedited_wait_days,original_shortfall_units,expedited_shortfall_units,shortfall_reduction_units
+2073,80,"""The Gu"" red shirt XML tag t-shirt (White) M",2016-05-31,20,35.6,2016-06-20,20,2016-06-13,13,692.0,442.8,249.2
+2073,95,"""The Gu"" red shirt XML tag t-shirt (Black) XL",2016-05-31,48,36.4,2016-06-20,20,2016-06-13,13,680.0,425.2,254.8
+2073,86,"""The Gu"" red shirt XML tag t-shirt (White) 5XL",2016-05-31,3,19.2,2016-06-20,20,2016-06-13,13,381.0,246.6,134.4
+2073,78,"""The Gu"" red shirt XML tag t-shirt (White) XS",2016-05-31,16,20.0,2016-06-20,20,2016-06-13,13,384.0,244.0,140.0
+2073,98,"""The Gu"" red shirt XML tag t-shirt (Black) 4XL",2016-05-31,25,19.6,2016-06-20,20,2016-06-13,13,367.0,229.8,137.2
+2073,77,"""The Gu"" red shirt XML tag t-shirt (White) XXS",2016-05-31,27,18.4,2016-06-20,20,2016-06-13,13,341.0,212.2,128.8
+2074,184,Shipping carton (Brown) 305x305x305mm,2016-05-31,38,72.5,2016-06-20,20,2016-06-13,13,1412.0,904.5,507.5
+2074,193,Black and orange glass with care despatch tape 48mmx75m,2016-05-31,50,44.0,2016-06-20,20,2016-06-13,13,830.0,522.0,308.0
+2074,204,Tape dispenser (Red),2016-05-31,24,17.333333333333332,2016-06-20,20,2016-06-13,13,322.67,201.33,121.33

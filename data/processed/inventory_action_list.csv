@@ -1,0 +1,228 @@
+snapshot_date,StockItemID,StockItemName,QuantityOnHand,ReorderLevel,at_reorder_level,avg_daily_units_sold,estimated_days_of_cover,open_order_count,earliest_delivery_date,days_until_receipt,receipt_risk,estimated_shortfall_units,LeadTimeDays,replenishment_action,estimated_lead_time_shortfall_units,recommended_action
+2016-05-31,184,Shipping carton (Brown) 305x305x305mm,38,50,1,72.5,0.52,1,2016-06-20,20,stockout_risk,1412.0,,,,expedite_existing_po
+2016-05-31,193,Black and orange glass with care despatch tape 48mmx75m,50,20,0,44.0,1.14,1,2016-06-20,20,stockout_risk,830.0,,,,expedite_existing_po
+2016-05-31,80,"""The Gu"" red shirt XML tag t-shirt (White) M",20,5,0,35.6,0.56,1,2016-06-20,20,stockout_risk,692.0,,,,expedite_existing_po
+2016-05-31,95,"""The Gu"" red shirt XML tag t-shirt (Black) XL",48,5,0,36.4,1.32,1,2016-06-20,20,stockout_risk,680.0,,,,expedite_existing_po
+2016-05-31,78,"""The Gu"" red shirt XML tag t-shirt (White) XS",16,5,0,20.0,0.8,1,2016-06-20,20,stockout_risk,384.0,,,,expedite_existing_po
+2016-05-31,86,"""The Gu"" red shirt XML tag t-shirt (White) 5XL",3,5,1,19.2,0.16,1,2016-06-20,20,stockout_risk,381.0,,,,expedite_existing_po
+2016-05-31,98,"""The Gu"" red shirt XML tag t-shirt (Black) 4XL",25,5,0,19.6,1.28,1,2016-06-20,20,stockout_risk,367.0,,,,expedite_existing_po
+2016-05-31,77,"""The Gu"" red shirt XML tag t-shirt (White) XXS",27,5,0,18.4,1.47,1,2016-06-20,20,stockout_risk,341.0,,,,expedite_existing_po
+2016-05-31,204,Tape dispenser (Red),24,20,0,17.333333333333332,1.38,1,2016-06-20,20,stockout_risk,322.67,,,,expedite_existing_po
+2016-05-31,1,USB missile launcher (Green),175609,20,0,7.333333333333333,23946.68,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,2,USB rocket launcher (Gray),165538,20,0,4.333333333333333,38201.08,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,3,Office cube periscope (Black),253190,10,0,45.333333333333336,5585.07,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,4,USB food flash drive - sushi roll,208109,5,0,5.3,39265.85,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,5,USB food flash drive - hamburger,199064,5,0,4.9,40625.31,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,6,USB food flash drive - hot dog,196995,5,0,4.333333333333333,45460.38,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,7,USB food flash drive - pizza slice,205295,5,0,3.6,57026.39,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,8,USB food flash drive - dim sum 10 drive variety pack,412277,10,0,3.566666666666667,115591.68,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,9,USB food flash drive - banana,192749,5,0,3.9,49422.82,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,10,USB food flash drive - chocolate bar,222572,5,0,4.566666666666666,48738.39,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,11,USB food flash drive - cookie,203148,5,0,4.6,44162.61,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,12,USB food flash drive - donut,200406,5,0,4.7,42639.57,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,13,USB food flash drive - shrimp cocktail,197453,5,0,4.966666666666667,39755.64,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,14,USB food flash drive - fortune cookie,192358,5,0,4.733333333333333,40639.01,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,15,USB food flash drive - dessert 10 drive variety pack,398290,10,0,5.033333333333333,79130.46,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,16,DBA joke mug - mind if I join you? (White),51836,15,0,4.433333333333334,11692.33,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,17,DBA joke mug - mind if I join you? (Black),62428,15,0,5.933333333333334,10521.57,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,18,DBA joke mug - daaaaaa-ta (White),89207,15,0,4.133333333333334,21582.34,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,19,DBA joke mug - daaaaaa-ta (Black),68800,15,0,6.3,10920.63,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,20,DBA joke mug - you might be a DBA if (White),66722,15,0,4.433333333333334,15050.08,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,21,DBA joke mug - you might be a DBA if (Black),68683,15,0,5.866666666666666,11707.33,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,22,DBA joke mug - it depends (White),72747,15,0,3.466666666666667,20984.71,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,23,DBA joke mug - it depends (Black),56283,15,0,5.233333333333333,10754.71,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,24,DBA joke mug - I will get you in order (White),57083,15,0,5.033333333333333,11340.99,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,25,DBA joke mug - I will get you in order (Black),47106,15,0,4.866666666666666,9679.32,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,26,DBA joke mug - SELECT caffeine FROM mug (White),61071,15,0,5.633333333333334,10841.01,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,27,DBA joke mug - SELECT caffeine FROM mug (Black),47747,15,0,4.666666666666667,10231.5,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,28,DBA joke mug - two types of DBAs (White),53851,15,0,2.6333333333333333,20449.75,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,29,DBA joke mug - two types of DBAs (Black),80978,15,0,3.966666666666667,20414.62,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,30,Developer joke mug - Oct 31 = Dec 25 (White),49248,15,0,4.3,11453.02,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,31,Developer joke mug - Oct 31 = Dec 25 (Black),79604,15,0,6.8,11706.47,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,32,Developer joke mug - that's a hardware problem (White),47512,15,0,3.0,15837.33,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,33,Developer joke mug - that's a hardware problem (Black),60005,15,0,5.133333333333334,11689.29,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,34,Developer joke mug - fun was unexpected at this time (White),65583,15,0,5.166666666666667,12693.48,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,35,Developer joke mug - fun was unexpected at this time (Black),75803,15,0,8.6,8814.3,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,36,Developer joke mug - when your hammer is C++ (White),49459,15,0,4.433333333333334,11156.17,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,37,Developer joke mug - when your hammer is C++ (Black),61318,15,0,4.0,15329.5,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,38,Developer joke mug - inheritance is the OO way to become wealthy (White),58431,15,0,5.066666666666666,11532.43,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,39,Developer joke mug - inheritance is the OO way to become wealthy (Black),66353,15,0,4.566666666666666,14529.85,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,40,"Developer joke mug - (hip, hip, array) (White)",82969,15,0,5.433333333333334,15270.37,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,41,"Developer joke mug - (hip, hip, array) (Black)",79138,15,0,6.066666666666666,13044.73,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,42,Developer joke mug - understanding recursion requires understanding recursion (White),61075,15,0,4.433333333333334,13776.32,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,43,Developer joke mug - understanding recursion requires understanding recursion (Black),59174,15,0,5.966666666666667,9917.43,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,44,Developer joke mug - there are 10 types of people in the world (White),76861,15,0,4.2,18300.24,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,45,Developer joke mug - there are 10 types of people in the world (Black),54430,15,0,6.3,8639.68,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,46,Developer joke mug - a foo walks into a bar (White),85243,15,0,7.433333333333334,11467.67,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,47,Developer joke mug - a foo walks into a bar (Black),57652,15,0,6.733333333333333,8562.18,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,48,Developer joke mug - this code was generated by a tool (White),65779,15,0,6.066666666666666,10842.69,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,49,Developer joke mug - this code was generated by a tool (Black),51545,15,0,4.533333333333333,11370.22,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,50,Developer joke mug - old C developers never die (White),81085,15,0,4.433333333333334,18289.85,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,51,Developer joke mug - old C developers never die (Black),47656,15,0,3.8,12541.05,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,52,IT joke mug - keyboard not found … press F1 to continue (White),51289,15,0,4.5,11397.56,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,53,IT joke mug - keyboard not found … press F1 to continue (Black),58061,15,0,4.033333333333333,14395.29,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,54,IT joke mug - that behavior is by design (White),95786,15,0,7.0,13683.71,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,55,IT joke mug - that behavior is by design (Black),83130,15,0,6.333333333333333,13125.79,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,56,IT joke mug - hardware: part of the computer that can be kicked (White),59403,15,0,6.3,9429.05,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,57,IT joke mug - hardware: part of the computer that can be kicked (Black),72743,15,0,6.033333333333333,12056.85,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,58,RC toy sedan car with remote control (Black) 1/50 scale,174043,20,0,5.833333333333333,29835.94,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,59,RC toy sedan car with remote control (Red) 1/50 scale,190946,20,0,5.633333333333334,33895.74,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,60,RC toy sedan car with remote control (Blue) 1/50 scale,165484,20,0,4.7,35209.36,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,61,RC toy sedan car with remote control (Green) 1/50 scale,163823,20,0,4.633333333333334,35357.48,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,62,RC toy sedan car with remote control (Yellow) 1/50 scale,180856,20,0,5.833333333333333,31003.89,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,63,RC toy sedan car with remote control (Pink) 1/50 scale,190886,20,0,3.933333333333333,48530.34,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,64,RC vintage American toy coupe with remote control (Red) 1/50 scale,213248,20,0,5.666666666666667,37632.0,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,65,RC vintage American toy coupe with remote control (Black) 1/50 scale,164183,20,0,5.266666666666667,31173.99,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,66,RC big wheel monster truck with remote control (Black) 1/50 scale,172525,20,0,4.066666666666666,42424.18,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,67,Ride on toy sedan car (Black) 1/12 scale,93588,10,0,4.733333333333333,19772.11,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,68,Ride on toy sedan car (Red) 1/12 scale,90953,10,0,5.966666666666667,15243.52,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,69,Ride on toy sedan car (Blue) 1/12 scale,96791,10,0,6.666666666666667,14518.65,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,70,Ride on toy sedan car (Green) 1/12 scale,83287,10,0,4.133333333333334,20150.08,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,71,Ride on toy sedan car (Yellow) 1/12 scale,112020,10,0,6.1,18363.93,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,72,Ride on toy sedan car (Pink) 1/12 scale,116147,10,0,4.5,25810.44,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,73,Ride on vintage American toy coupe (Red) 1/12 scale,106477,10,0,3.9,27301.79,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,74,Ride on vintage American toy coupe (Black) 1/12 scale,80341,10,0,5.633333333333334,14261.72,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,75,Ride on big wheel monster truck (Black) 1/12 scale,80823,10,0,4.866666666666666,16607.47,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,76,"""The Gu"" red shirt XML tag t-shirt (White) 3XS",129929,5,0,71.2,1824.85,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,79,"""The Gu"" red shirt XML tag t-shirt (White) S",24895,5,0,80.8,308.11,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,81,"""The Gu"" red shirt XML tag t-shirt (White) L",106773,5,0,49.6,2152.68,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,82,"""The Gu"" red shirt XML tag t-shirt (White) XL",6706,5,0,79.6,84.25,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,83,"""The Gu"" red shirt XML tag t-shirt (White) XXL",224185,5,0,58.0,3865.26,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,84,"""The Gu"" red shirt XML tag t-shirt (White) 3XL",5439,5,0,75.6,71.94,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,85,"""The Gu"" red shirt XML tag t-shirt (White) 4XL",56210,5,0,46.8,1201.07,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,87,"""The Gu"" red shirt XML tag t-shirt (White) 6XL",53392,5,0,57.2,933.43,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,88,"""The Gu"" red shirt XML tag t-shirt (White) 7XL",148350,5,0,79.2,1873.11,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,89,"""The Gu"" red shirt XML tag t-shirt (Black) 3XS",81703,5,0,55.2,1480.13,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,90,"""The Gu"" red shirt XML tag t-shirt (Black) XXS",75663,5,0,84.4,896.48,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,91,"""The Gu"" red shirt XML tag t-shirt (Black) XS",76373,5,0,80.8,945.21,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,92,"""The Gu"" red shirt XML tag t-shirt (Black) S",82253,5,0,40.8,2016.0,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,93,"""The Gu"" red shirt XML tag t-shirt (Black) M",277914,5,0,68.4,4063.07,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,94,"""The Gu"" red shirt XML tag t-shirt (Black) L",157255,5,0,47.2,3331.67,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,96,"""The Gu"" red shirt XML tag t-shirt (Black) XXL",402445,5,0,49.6,8113.81,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,97,"""The Gu"" red shirt XML tag t-shirt (Black) 3XL",525771,5,0,52.8,9957.78,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,99,"""The Gu"" red shirt XML tag t-shirt (Black) 5XL",282132,5,0,55.6,5074.32,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,100,"""The Gu"" red shirt XML tag t-shirt (Black) 6XL",277863,5,0,47.6,5837.46,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,101,"""The Gu"" red shirt XML tag t-shirt (Black) 7XL",51036,5,0,75.2,678.67,0,,,no_open_purchase,,7,covered_through_lead_time,0.0,monitor
+2016-05-31,102,Alien officer hoodie (Black) XL,6702,5,0,6.266666666666667,1069.47,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,103,Alien officer hoodie (Black) XXL,13020,5,0,4.6,2830.43,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,104,Alien officer hoodie (Black) 3XL,14596,5,0,4.9,2978.78,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,105,Alien officer hoodie (Black) 4XL,23213,5,0,3.4,6827.35,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,106,Alien officer hoodie (Black) 5XL,10874,5,0,5.4,2013.7,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,107,Superhero action jacket (Blue) 3XS,10843,5,0,4.433333333333334,2445.79,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,108,Superhero action jacket (Blue) XXS,6342,5,0,6.433333333333334,985.8,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,109,Superhero action jacket (Blue) XS,27052,5,0,5.2,5202.31,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,110,Superhero action jacket (Blue) S,19426,5,0,6.333333333333333,3067.26,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,111,Superhero action jacket (Blue) M,8498,5,0,5.433333333333334,1564.05,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,112,Superhero action jacket (Blue) L,11076,5,0,4.633333333333334,2390.5,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,113,Superhero action jacket (Blue) XL,7057,5,0,3.8,1857.11,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,114,Superhero action jacket (Blue) XXL,6971,5,0,3.2666666666666666,2133.98,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,115,Superhero action jacket (Blue) 3XL,16909,5,0,5.633333333333334,3001.6,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,116,Superhero action jacket (Blue) 4XL,10988,5,0,3.6333333333333333,3024.22,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,117,Superhero action jacket (Blue) 5XL,14824,5,0,4.0,3706.0,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,118,Dinosaur battery-powered slippers (Green) S,58218,10,0,6.7,8689.25,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,119,Dinosaur battery-powered slippers (Green) M,49638,10,0,6.6,7520.91,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,120,Dinosaur battery-powered slippers (Green) L,68104,10,0,5.933333333333334,11478.2,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,121,Dinosaur battery-powered slippers (Green) XL,39597,10,0,6.8,5823.09,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,122,Ogre battery-powered slippers (Green) S,38905,10,0,4.7,8277.66,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,123,Ogre battery-powered slippers (Green) M,45839,10,0,4.833333333333333,9483.93,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,124,Ogre battery-powered slippers (Green) L,40953,10,0,5.166666666666667,7926.39,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,125,Ogre battery-powered slippers (Green) XL,39732,10,0,4.033333333333333,9850.91,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,126,Plush shark slippers (Gray) S,44071,10,0,5.5,8012.91,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,127,Plush shark slippers (Gray) M,41393,10,0,5.533333333333333,7480.66,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,128,Plush shark slippers (Gray) L,64026,10,0,4.766666666666667,13432.03,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,129,Plush shark slippers (Gray) XL,49855,10,0,5.4,9232.41,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,130,Furry gorilla with big eyes slippers (Black) S,60311,10,0,4.966666666666667,12143.15,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,131,Furry gorilla with big eyes slippers (Black) M,37392,10,0,6.533333333333333,5723.27,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,132,Furry gorilla with big eyes slippers (Black) L,43436,10,0,5.333333333333333,8144.25,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,133,Furry gorilla with big eyes slippers (Black) XL,56220,10,0,6.733333333333333,8349.5,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,134,Animal with big feet slippers (Brown) S,41994,10,0,4.0,10498.5,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,135,Animal with big feet slippers (Brown) M,37481,10,0,5.233333333333333,7161.97,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,136,Animal with big feet slippers (Brown) L,39284,10,0,5.8,6773.1,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,137,Animal with big feet slippers (Brown) XL,45624,10,0,5.666666666666667,8051.29,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,138,Furry animal socks (Pink) S,501745,20,0,60.0,8362.42,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,139,Furry animal socks (Pink) M,126418,20,0,51.2,2469.1,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,140,Furry animal socks (Pink) L,570360,20,0,82.0,6955.61,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,141,Furry animal socks (Pink) XL,328315,20,0,56.8,5780.19,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,142,Halloween zombie mask (Light Brown) S,323812,12,0,71.6,4522.51,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,143,Halloween zombie mask (Light Brown) M,378187,12,0,48.4,7813.78,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,144,Halloween zombie mask (Light Brown) L,379166,12,0,51.6,7348.18,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,145,Halloween zombie mask (Light Brown) XL,248519,12,0,48.4,5134.69,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,146,Halloween skull mask (Gray) S,327221,12,0,68.4,4783.93,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,147,Halloween skull mask (Gray) M,354456,12,0,55.2,6421.3,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,148,Halloween skull mask (Gray) L,274041,12,0,52.8,5190.17,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,149,Halloween skull mask (Gray) XL,229551,12,0,46.4,4947.22,0,,,no_open_purchase,,12,covered_through_lead_time,0.0,monitor
+2016-05-31,150,Pack of 12 action figures (variety),31743,5,0,4.233333333333333,7498.35,0,,,no_open_purchase,,2,covered_through_lead_time,0.0,monitor
+2016-05-31,151,Pack of 12 action figures (male),37881,5,0,5.066666666666666,7476.51,0,,,no_open_purchase,,2,covered_through_lead_time,0.0,monitor
+2016-05-31,152,Pack of 12 action figures (female),31300,5,0,3.566666666666667,8775.7,0,,,no_open_purchase,,2,covered_through_lead_time,0.0,monitor
+2016-05-31,153,Small sized bubblewrap roll 10m,168635,20,0,62.666666666666664,2690.98,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,154,Medium sized bubblewrap roll 20m,105320,20,0,67.66666666666667,1556.45,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,155,Large sized bubblewrap roll 50m,440171,20,0,25.0,17606.84,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,156,10 mm Double sided bubble wrap 10m,172675,20,0,37.666666666666664,4584.29,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,157,10 mm Double sided bubble wrap 20m,46925,20,0,59.333333333333336,790.87,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,158,10 mm Double sided bubble wrap 50m,26193,20,0,51.666666666666664,506.96,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,159,20 mm Double sided bubble wrap 10m,48746,20,0,51.333333333333336,949.6,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,160,20 mm Double sided bubble wrap 20m,250461,20,0,43.666666666666664,5735.75,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,161,20 mm Double sided bubble wrap 50m,188962,20,0,52.666666666666664,3587.89,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,162,32 mm Double sided bubble wrap 10m,269785,20,0,61.0,4422.7,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,163,32 mm Double sided bubble wrap 20m,108019,20,0,48.333333333333336,2234.88,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,164,32 mm Double sided bubble wrap 50m,68906,20,0,50.333333333333336,1368.99,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,165,10 mm Anti static bubble wrap (Blue) 10m,187313,20,0,51.0,3672.8,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,166,10 mm Anti static bubble wrap (Blue) 20m,149668,20,0,58.0,2580.48,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,167,10 mm Anti static bubble wrap (Blue) 50m,308519,20,0,69.66666666666667,4428.5,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,168,20 mm Anti static bubble wrap (Blue) 10m,112946,20,0,29.0,3894.69,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,169,20 mm Anti static bubble wrap (Blue) 20m,68707,20,0,54.0,1272.35,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,170,20 mm Anti static bubble wrap (Blue) 50m,274265,20,0,58.0,4728.71,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,171,32 mm Anti static bubble wrap (Blue) 10m,128136,20,0,49.0,2615.02,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,172,32 mm Anti static bubble wrap (Blue) 20m,291347,20,0,46.333333333333336,6288.06,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,173,32 mm Anti static bubble wrap (Blue) 50m,103958,20,0,43.666666666666664,2380.72,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,174,Bubblewrap dispenser (Black) 1.5m,8879,2,0,6.0,1479.83,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,175,Bubblewrap dispenser (Blue) 1.5m,15106,2,0,3.3666666666666667,4486.93,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,176,Bubblewrap dispenser (Red) 1.5m,41251,2,0,5.066666666666666,8141.64,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,177,Shipping carton (Brown) 413x285x187mm,58292,50,0,146.66666666666666,397.45,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,178,Shipping carton (Brown) 500x310x310mm,117043,50,0,123.33333333333333,949.0,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,179,Shipping carton (Brown) 229x229x229mm,214030,50,0,134.16666666666666,1595.25,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,180,Shipping carton (Brown) 279x254x217mm,318572,50,0,158.33333333333334,2012.03,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,181,Shipping carton (Brown) 356x229x229mm,64432,50,0,198.33333333333334,324.87,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,182,Shipping carton (Brown) 457x279x279mm,326007,50,0,94.16666666666667,3462.02,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,183,Shipping carton (Brown) 480x270x320mm,62224,50,0,167.5,371.49,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,185,Shipping carton (Brown) 356x356x279mm,723037,50,0,182.5,3961.85,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,186,Shipping carton (Brown) 457x457x457mm,422709,50,0,125.0,3381.67,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,187,Express post box 5kg (White) 350x280x130mm,1034169,50,0,153.33333333333334,6744.58,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,188,3 kg Courier post bag (White) 300x190x95mm,208903,50,0,134.16666666666666,1557.04,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,189,Clear packaging tape 48mmx75m,324375,20,0,143.0,2268.36,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,190,Clear packaging tape 48mmx100m,50246,20,0,86.0,584.26,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,191,Black and orange fragile despatch tape 48mmx75m,686530,20,0,148.8,4613.78,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,192,Black and orange fragile despatch tape 48mmx100m,618169,20,0,218.4,2830.44,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,194,Black and orange glass with care despatch tape  48mmx100m,204993,20,0,136.8,1498.49,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,195,Black and orange handle with care despatch tape  48mmx75m,59592,20,0,98.4,605.61,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,196,Black and orange handle with care despatch tape  48mmx100m,654741,20,0,126.4,5179.91,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,197,Black and orange this way up despatch tape 48mmx75m,263108,20,0,80.0,3288.85,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,198,Black and orange this way up despatch tape  48mmx100m,54862,20,0,149.6,366.72,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,199,Black and yellow heavy despatch tape  48mmx75m,5447,20,0,107.2,50.81,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,200,Black and yellow heavy despatch tape 48mmx100m,56445,20,0,184.0,306.77,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,201,Red and white urgent despatch tape 48mmx75m,153241,20,0,82.4,1859.72,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,202,Red and white urgent  heavy despatch tape  48mmx100m,68654,20,0,161.6,424.84,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,203,Tape dispenser (Black),4253,20,0,64.0,66.45,0,,,no_open_purchase,,20,covered_through_lead_time,0.0,monitor
+2016-05-31,205,Tape dispenser (Blue),169152,20,0,67.33333333333333,2512.16,0,,,no_open_purchase,,20,covered_through_lead_time,0.0,monitor
+2016-05-31,206,Permanent marker black 5mm nib (Black) 5mm,306414,50,0,84.8,3613.37,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,207,Permanent marker blue 5mm nib (Blue) 5mm,250156,50,0,76.8,3257.24,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,208,Permanent marker red 5mm nib (Red) 5mm,251435,50,0,68.4,3675.95,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,209,Packing knife with metal insert blade (Yellow) 9mm,104161,20,0,28.166666666666668,3698.02,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,210,Packing knife with metal insert blade (Yellow) 18mm,128179,20,0,28.666666666666668,4471.36,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,211,Small 9mm replacement blades 9mm,273217,20,0,56.666666666666664,4821.48,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,212,Large  replacement blades 18mm,248979,20,0,58.0,4292.74,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,213,Air cushion film 200mmx100mm 325m,20946,20,0,5.333333333333333,3927.38,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,214,Air cushion film 200mmx200mm 325m,16642,20,0,4.833333333333333,3443.17,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,215,Air cushion machine (Blue),12530,1,0,7.5,1670.67,0,,,no_open_purchase,,20,covered_through_lead_time,0.0,monitor
+2016-05-31,216,Void fill 100 L bag (White) 100L,47902,10,0,70.66666666666667,677.86,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,217,Void fill 200 L bag (White) 200L,128916,10,0,73.33333333333333,1757.95,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,218,Void fill 300 L bag (White) 300L,107072,10,0,48.333333333333336,2215.28,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,219,Void fill 400 L bag (White) 400L,108124,10,0,69.0,1567.01,0,,,no_open_purchase,,14,covered_through_lead_time,0.0,monitor
+2016-05-31,220,Novelty chilli chocolates 250g,90360,240,0,92.8,973.71,0,,,no_open_purchase,,3,covered_through_lead_time,0.0,monitor
+2016-05-31,221,Novelty chilli chocolates 500g,48228,120,0,71.6,673.58,0,,,no_open_purchase,,3,covered_through_lead_time,0.0,monitor
+2016-05-31,222,Chocolate beetles 250g,69336,240,0,186.4,371.97,0,,,no_open_purchase,,3,covered_through_lead_time,0.0,monitor
+2016-05-31,223,Chocolate echidnas 250g,74256,240,0,85.6,867.48,0,,,no_open_purchase,,3,covered_through_lead_time,0.0,monitor
+2016-05-31,224,Chocolate frogs 250g,67488,240,0,92.8,727.24,0,,,no_open_purchase,,3,covered_through_lead_time,0.0,monitor
+2016-05-31,225,Chocolate sharks 250g,119560,240,0,150.4,794.95,0,,,no_open_purchase,,3,covered_through_lead_time,0.0,monitor
+2016-05-31,226,White chocolate snow balls 250g,155856,240,0,113.6,1371.97,0,,,no_open_purchase,,3,covered_through_lead_time,0.0,monitor
+2016-05-31,227,White chocolate moon rocks 250g,245352,240,0,119.2,2058.32,0,,,no_open_purchase,,3,covered_through_lead_time,0.0,monitor

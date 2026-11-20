@@ -1,0 +1,228 @@
+snapshot_date,stockitemID,StockItemName,SupplierName,QuantityOnHand,ReorderLevel,TargetStockLevel,at_reorder_level,open_order_count,purchase_status,open_units,earliest_expected_delivery_date
+2016-05-31,86,""The Gu" red shirt XML tag t-shirt (White) 5XL","Fabrikam, Inc.",3,5,20,1,1,awaiting_receipt,45216,2016-06-20
+2016-05-31,184,"Shipping carton (Brown) 305x305x305mm","Litware, Inc.",38,50,100,1,1,awaiting_receipt,41850,2016-06-20
+2016-05-31,1,"USB missile launcher (Green)","The Phone Company",175609,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,2,"USB rocket launcher (Gray)","The Phone Company",165538,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,3,"Office cube periscope (Black)","The Phone Company",253190,10,120,0,0,no_open_purchase,0,NULL
+2016-05-31,4,"USB food flash drive - sushi roll","The Phone Company",208109,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,5,"USB food flash drive - hamburger","The Phone Company",199064,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,6,"USB food flash drive - hot dog","The Phone Company",196995,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,7,"USB food flash drive - pizza slice","The Phone Company",205295,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,8,"USB food flash drive - dim sum 10 drive variety pack","The Phone Company",412277,10,200,0,0,no_open_purchase,0,NULL
+2016-05-31,9,"USB food flash drive - banana","The Phone Company",192749,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,10,"USB food flash drive - chocolate bar","The Phone Company",222572,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,11,"USB food flash drive - cookie","The Phone Company",203148,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,12,"USB food flash drive - donut","The Phone Company",200406,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,13,"USB food flash drive - shrimp cocktail","The Phone Company",197453,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,14,"USB food flash drive - fortune cookie","The Phone Company",192358,5,100,0,0,no_open_purchase,0,NULL
+2016-05-31,15,"USB food flash drive - dessert 10 drive variety pack","The Phone Company",398290,10,200,0,0,no_open_purchase,0,NULL
+2016-05-31,16,"DBA joke mug - mind if I join you? (White)","Graphic Design Institute",51836,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,17,"DBA joke mug - mind if I join you? (Black)","Graphic Design Institute",62428,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,18,"DBA joke mug - daaaaaa-ta (White)","Graphic Design Institute",89207,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,19,"DBA joke mug - daaaaaa-ta (Black)","Graphic Design Institute",68800,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,20,"DBA joke mug - you might be a DBA if (White)","Graphic Design Institute",66722,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,21,"DBA joke mug - you might be a DBA if (Black)","Graphic Design Institute",68683,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,22,"DBA joke mug - it depends (White)","Graphic Design Institute",72747,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,23,"DBA joke mug - it depends (Black)","Graphic Design Institute",56283,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,24,"DBA joke mug - I will get you in order (White)","Graphic Design Institute",57083,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,25,"DBA joke mug - I will get you in order (Black)","Graphic Design Institute",47106,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,26,"DBA joke mug - SELECT caffeine FROM mug (White)","Graphic Design Institute",61071,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,27,"DBA joke mug - SELECT caffeine FROM mug (Black)","Graphic Design Institute",47747,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,28,"DBA joke mug - two types of DBAs (White)","Graphic Design Institute",53851,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,29,"DBA joke mug - two types of DBAs (Black)","Graphic Design Institute",80978,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,30,"Developer joke mug - Oct 31 = Dec 25 (White)","Graphic Design Institute",49248,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,31,"Developer joke mug - Oct 31 = Dec 25 (Black)","Graphic Design Institute",79604,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,32,"Developer joke mug - that's a hardware problem (White)","Graphic Design Institute",47512,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,33,"Developer joke mug - that's a hardware problem (Black)","Graphic Design Institute",60005,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,34,"Developer joke mug - fun was unexpected at this time (White)","Graphic Design Institute",65583,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,35,"Developer joke mug - fun was unexpected at this time (Black)","Graphic Design Institute",75803,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,36,"Developer joke mug - when your hammer is C++ (White)","Graphic Design Institute",49459,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,37,"Developer joke mug - when your hammer is C++ (Black)","Graphic Design Institute",61318,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,38,"Developer joke mug - inheritance is the OO way to become wealthy (White)","Graphic Design Institute",58431,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,39,"Developer joke mug - inheritance is the OO way to become wealthy (Black)","Graphic Design Institute",66353,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,40,"Developer joke mug - (hip, hip, array) (White)","Graphic Design Institute",82969,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,41,"Developer joke mug - (hip, hip, array) (Black)","Graphic Design Institute",79138,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,42,"Developer joke mug - understanding recursion requires understanding recursion (White)","Graphic Design Institute",61075,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,43,"Developer joke mug - understanding recursion requires understanding recursion (Black)","Graphic Design Institute",59174,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,44,"Developer joke mug - there are 10 types of people in the world (White)","Graphic Design Institute",76861,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,45,"Developer joke mug - there are 10 types of people in the world (Black)","Graphic Design Institute",54430,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,46,"Developer joke mug - a foo walks into a bar (White)","Graphic Design Institute",85243,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,47,"Developer joke mug - a foo walks into a bar (Black)","Graphic Design Institute",57652,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,48,"Developer joke mug - this code was generated by a tool (White)","Graphic Design Institute",65779,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,49,"Developer joke mug - this code was generated by a tool (Black)","Graphic Design Institute",51545,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,50,"Developer joke mug - old C developers never die (White)","Graphic Design Institute",81085,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,51,"Developer joke mug - old C developers never die (Black)","Graphic Design Institute",47656,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,52,"IT joke mug - keyboard not found … press F1 to continue (White)","Graphic Design Institute",51289,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,53,"IT joke mug - keyboard not found … press F1 to continue (Black)","Graphic Design Institute",58061,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,54,"IT joke mug - that behavior is by design (White)","Graphic Design Institute",95786,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,55,"IT joke mug - that behavior is by design (Black)","Graphic Design Institute",83130,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,56,"IT joke mug - hardware: part of the computer that can be kicked (White)","Graphic Design Institute",59403,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,57,"IT joke mug - hardware: part of the computer that can be kicked (Black)","Graphic Design Institute",72743,15,40,0,0,no_open_purchase,0,NULL
+2016-05-31,58,"RC toy sedan car with remote control (Black) 1/50 scale","Northwind Electric Cars",174043,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,59,"RC toy sedan car with remote control (Red) 1/50 scale","Northwind Electric Cars",190946,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,60,"RC toy sedan car with remote control (Blue) 1/50 scale","Northwind Electric Cars",165484,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,61,"RC toy sedan car with remote control (Green) 1/50 scale","Northwind Electric Cars",163823,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,62,"RC toy sedan car with remote control (Yellow) 1/50 scale","Northwind Electric Cars",180856,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,63,"RC toy sedan car with remote control (Pink) 1/50 scale","Northwind Electric Cars",190886,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,64,"RC vintage American toy coupe with remote control (Red) 1/50 scale","Northwind Electric Cars",213248,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,65,"RC vintage American toy coupe with remote control (Black) 1/50 scale","Northwind Electric Cars",164183,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,66,"RC big wheel monster truck with remote control (Black) 1/50 scale","Northwind Electric Cars",172525,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,67,"Ride on toy sedan car (Black) 1/12 scale","Northwind Electric Cars",93588,10,50,0,0,no_open_purchase,0,NULL
+2016-05-31,68,"Ride on toy sedan car (Red) 1/12 scale","Northwind Electric Cars",90953,10,50,0,0,no_open_purchase,0,NULL
+2016-05-31,69,"Ride on toy sedan car (Blue) 1/12 scale","Northwind Electric Cars",96791,10,50,0,0,no_open_purchase,0,NULL
+2016-05-31,70,"Ride on toy sedan car (Green) 1/12 scale","Northwind Electric Cars",83287,10,50,0,0,no_open_purchase,0,NULL
+2016-05-31,71,"Ride on toy sedan car (Yellow) 1/12 scale","Northwind Electric Cars",112020,10,50,0,0,no_open_purchase,0,NULL
+2016-05-31,72,"Ride on toy sedan car (Pink) 1/12 scale","Northwind Electric Cars",116147,10,50,0,0,no_open_purchase,0,NULL
+2016-05-31,73,"Ride on vintage American toy coupe (Red) 1/12 scale","Northwind Electric Cars",106477,10,50,0,0,no_open_purchase,0,NULL
+2016-05-31,74,"Ride on vintage American toy coupe (Black) 1/12 scale","Northwind Electric Cars",80341,10,50,0,0,no_open_purchase,0,NULL
+2016-05-31,75,"Ride on big wheel monster truck (Black) 1/12 scale","Northwind Electric Cars",80823,10,50,0,0,no_open_purchase,0,NULL
+2016-05-31,76,""The Gu" red shirt XML tag t-shirt (White) 3XS","Fabrikam, Inc.",129929,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,77,""The Gu" red shirt XML tag t-shirt (White) XXS","Fabrikam, Inc.",27,5,20,0,1,awaiting_receipt,40812,2016-06-20
+2016-05-31,78,""The Gu" red shirt XML tag t-shirt (White) XS","Fabrikam, Inc.",16,5,20,0,1,awaiting_receipt,44004,2016-06-20
+2016-05-31,79,""The Gu" red shirt XML tag t-shirt (White) S","Fabrikam, Inc.",24895,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,80,""The Gu" red shirt XML tag t-shirt (White) M","Fabrikam, Inc.",20,5,20,0,1,awaiting_receipt,21972,2016-06-20
+2016-05-31,81,""The Gu" red shirt XML tag t-shirt (White) L","Fabrikam, Inc.",106773,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,82,""The Gu" red shirt XML tag t-shirt (White) XL","Fabrikam, Inc.",6706,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,83,""The Gu" red shirt XML tag t-shirt (White) XXL","Fabrikam, Inc.",224185,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,84,""The Gu" red shirt XML tag t-shirt (White) 3XL","Fabrikam, Inc.",5439,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,85,""The Gu" red shirt XML tag t-shirt (White) 4XL","Fabrikam, Inc.",56210,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,87,""The Gu" red shirt XML tag t-shirt (White) 6XL","Fabrikam, Inc.",53392,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,88,""The Gu" red shirt XML tag t-shirt (White) 7XL","Fabrikam, Inc.",148350,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,89,""The Gu" red shirt XML tag t-shirt (Black) 3XS","Fabrikam, Inc.",81703,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,90,""The Gu" red shirt XML tag t-shirt (Black) XXS","Fabrikam, Inc.",75663,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,91,""The Gu" red shirt XML tag t-shirt (Black) XS","Fabrikam, Inc.",76373,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,92,""The Gu" red shirt XML tag t-shirt (Black) S","Fabrikam, Inc.",82253,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,93,""The Gu" red shirt XML tag t-shirt (Black) M","Fabrikam, Inc.",277914,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,94,""The Gu" red shirt XML tag t-shirt (Black) L","Fabrikam, Inc.",157255,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,95,""The Gu" red shirt XML tag t-shirt (Black) XL","Fabrikam, Inc.",48,5,20,0,1,awaiting_receipt,21924,2016-06-20
+2016-05-31,96,""The Gu" red shirt XML tag t-shirt (Black) XXL","Fabrikam, Inc.",402445,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,97,""The Gu" red shirt XML tag t-shirt (Black) 3XL","Fabrikam, Inc.",525771,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,98,""The Gu" red shirt XML tag t-shirt (Black) 4XL","Fabrikam, Inc.",25,5,20,0,1,awaiting_receipt,44604,2016-06-20
+2016-05-31,99,""The Gu" red shirt XML tag t-shirt (Black) 5XL","Fabrikam, Inc.",282132,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,100,""The Gu" red shirt XML tag t-shirt (Black) 6XL","Fabrikam, Inc.",277863,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,101,""The Gu" red shirt XML tag t-shirt (Black) 7XL","Fabrikam, Inc.",51036,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,102,"Alien officer hoodie (Black) XL","Fabrikam, Inc.",6702,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,103,"Alien officer hoodie (Black) XXL","Fabrikam, Inc.",13020,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,104,"Alien officer hoodie (Black) 3XL","Fabrikam, Inc.",14596,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,105,"Alien officer hoodie (Black) 4XL","Fabrikam, Inc.",23213,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,106,"Alien officer hoodie (Black) 5XL","Fabrikam, Inc.",10874,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,107,"Superhero action jacket (Blue) 3XS","Fabrikam, Inc.",10843,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,108,"Superhero action jacket (Blue) XXS","Fabrikam, Inc.",6342,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,109,"Superhero action jacket (Blue) XS","Fabrikam, Inc.",27052,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,110,"Superhero action jacket (Blue) S","Fabrikam, Inc.",19426,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,111,"Superhero action jacket (Blue) M","Fabrikam, Inc.",8498,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,112,"Superhero action jacket (Blue) L","Fabrikam, Inc.",11076,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,113,"Superhero action jacket (Blue) XL","Fabrikam, Inc.",7057,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,114,"Superhero action jacket (Blue) XXL","Fabrikam, Inc.",6971,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,115,"Superhero action jacket (Blue) 3XL","Fabrikam, Inc.",16909,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,116,"Superhero action jacket (Blue) 4XL","Fabrikam, Inc.",10988,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,117,"Superhero action jacket (Blue) 5XL","Fabrikam, Inc.",14824,5,10,0,0,no_open_purchase,0,NULL
+2016-05-31,118,"Dinosaur battery-powered slippers (Green) S","Fabrikam, Inc.",58218,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,119,"Dinosaur battery-powered slippers (Green) M","Fabrikam, Inc.",49638,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,120,"Dinosaur battery-powered slippers (Green) L","Fabrikam, Inc.",68104,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,121,"Dinosaur battery-powered slippers (Green) XL","Fabrikam, Inc.",39597,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,122,"Ogre battery-powered slippers (Green) S","Fabrikam, Inc.",38905,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,123,"Ogre battery-powered slippers (Green) M","Fabrikam, Inc.",45839,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,124,"Ogre battery-powered slippers (Green) L","Fabrikam, Inc.",40953,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,125,"Ogre battery-powered slippers (Green) XL","Fabrikam, Inc.",39732,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,126,"Plush shark slippers (Gray) S","Fabrikam, Inc.",44071,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,127,"Plush shark slippers (Gray) M","Fabrikam, Inc.",41393,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,128,"Plush shark slippers (Gray) L","Fabrikam, Inc.",64026,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,129,"Plush shark slippers (Gray) XL","Fabrikam, Inc.",49855,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,130,"Furry gorilla with big eyes slippers (Black) S","Fabrikam, Inc.",60311,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,131,"Furry gorilla with big eyes slippers (Black) M","Fabrikam, Inc.",37392,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,132,"Furry gorilla with big eyes slippers (Black) L","Fabrikam, Inc.",43436,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,133,"Furry gorilla with big eyes slippers (Black) XL","Fabrikam, Inc.",56220,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,134,"Animal with big feet slippers (Brown) S","Fabrikam, Inc.",41994,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,135,"Animal with big feet slippers (Brown) M","Fabrikam, Inc.",37481,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,136,"Animal with big feet slippers (Brown) L","Fabrikam, Inc.",39284,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,137,"Animal with big feet slippers (Brown) XL","Fabrikam, Inc.",45624,10,30,0,0,no_open_purchase,0,NULL
+2016-05-31,138,"Furry animal socks (Pink) S","Fabrikam, Inc.",501745,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,139,"Furry animal socks (Pink) M","Fabrikam, Inc.",126418,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,140,"Furry animal socks (Pink) L","Fabrikam, Inc.",570360,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,141,"Furry animal socks (Pink) XL","Fabrikam, Inc.",328315,20,100,0,0,no_open_purchase,0,NULL
+2016-05-31,142,"Halloween zombie mask (Light Brown) S","Fabrikam, Inc.",323812,12,150,0,0,no_open_purchase,0,NULL
+2016-05-31,143,"Halloween zombie mask (Light Brown) M","Fabrikam, Inc.",378187,12,150,0,0,no_open_purchase,0,NULL
+2016-05-31,144,"Halloween zombie mask (Light Brown) L","Fabrikam, Inc.",379166,12,150,0,0,no_open_purchase,0,NULL
+2016-05-31,145,"Halloween zombie mask (Light Brown) XL","Fabrikam, Inc.",248519,12,150,0,0,no_open_purchase,0,NULL
+2016-05-31,146,"Halloween skull mask (Gray) S","Fabrikam, Inc.",327221,12,150,0,0,no_open_purchase,0,NULL
+2016-05-31,147,"Halloween skull mask (Gray) M","Fabrikam, Inc.",354456,12,150,0,0,no_open_purchase,0,NULL
+2016-05-31,148,"Halloween skull mask (Gray) L","Fabrikam, Inc.",274041,12,150,0,0,no_open_purchase,0,NULL
+2016-05-31,149,"Halloween skull mask (Gray) XL","Fabrikam, Inc.",229551,12,150,0,0,no_open_purchase,0,NULL
+2016-05-31,150,"Pack of 12 action figures (variety)","Contoso, Ltd.",31743,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,151,"Pack of 12 action figures (male)","Contoso, Ltd.",37881,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,152,"Pack of 12 action figures (female)","Contoso, Ltd.",31300,5,20,0,0,no_open_purchase,0,NULL
+2016-05-31,153,"Small sized bubblewrap roll 10m","Litware, Inc.",168635,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,154,"Medium sized bubblewrap roll 20m","Litware, Inc.",105320,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,155,"Large sized bubblewrap roll 50m","Litware, Inc.",440171,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,156,"10 mm Double sided bubble wrap 10m","Litware, Inc.",172675,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,157,"10 mm Double sided bubble wrap 20m","Litware, Inc.",46925,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,158,"10 mm Double sided bubble wrap 50m","Litware, Inc.",26193,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,159,"20 mm Double sided bubble wrap 10m","Litware, Inc.",48746,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,160,"20 mm Double sided bubble wrap 20m","Litware, Inc.",250461,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,161,"20 mm Double sided bubble wrap 50m","Litware, Inc.",188962,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,162,"32 mm Double sided bubble wrap 10m","Litware, Inc.",269785,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,163,"32 mm Double sided bubble wrap 20m","Litware, Inc.",108019,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,164,"32 mm Double sided bubble wrap 50m","Litware, Inc.",68906,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,165,"10 mm Anti static bubble wrap (Blue) 10m","Litware, Inc.",187313,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,166,"10 mm Anti static bubble wrap (Blue) 20m","Litware, Inc.",149668,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,167,"10 mm Anti static bubble wrap (Blue) 50m","Litware, Inc.",308519,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,168,"20 mm Anti static bubble wrap (Blue) 10m","Litware, Inc.",112946,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,169,"20 mm Anti static bubble wrap (Blue) 20m","Litware, Inc.",68707,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,170,"20 mm Anti static bubble wrap (Blue) 50m","Litware, Inc.",274265,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,171,"32 mm Anti static bubble wrap (Blue) 10m","Litware, Inc.",128136,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,172,"32 mm Anti static bubble wrap (Blue) 20m","Litware, Inc.",291347,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,173,"32 mm Anti static bubble wrap (Blue) 50m","Litware, Inc.",103958,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,174,"Bubblewrap dispenser (Black) 1.5m","Litware, Inc.",8879,2,3,0,0,no_open_purchase,0,NULL
+2016-05-31,175,"Bubblewrap dispenser (Blue) 1.5m","Litware, Inc.",15106,2,3,0,0,no_open_purchase,0,NULL
+2016-05-31,176,"Bubblewrap dispenser (Red) 1.5m","Litware, Inc.",41251,2,3,0,0,no_open_purchase,0,NULL
+2016-05-31,177,"Shipping carton (Brown) 413x285x187mm","Litware, Inc.",58292,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,178,"Shipping carton (Brown) 500x310x310mm","Litware, Inc.",117043,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,179,"Shipping carton (Brown) 229x229x229mm","Litware, Inc.",214030,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,180,"Shipping carton (Brown) 279x254x217mm","Litware, Inc.",318572,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,181,"Shipping carton (Brown) 356x229x229mm","Litware, Inc.",64432,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,182,"Shipping carton (Brown) 457x279x279mm","Litware, Inc.",326007,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,183,"Shipping carton (Brown) 480x270x320mm","Litware, Inc.",62224,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,185,"Shipping carton (Brown) 356x356x279mm","Litware, Inc.",723037,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,186,"Shipping carton (Brown) 457x457x457mm","Litware, Inc.",422709,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,187,"Express post box 5kg (White) 350x280x130mm","Litware, Inc.",1034169,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,188,"3 kg Courier post bag (White) 300x190x95mm","Litware, Inc.",208903,50,100,0,0,no_open_purchase,0,NULL
+2016-05-31,189,"Clear packaging tape 48mmx75m","Litware, Inc.",324375,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,190,"Clear packaging tape 48mmx100m","Litware, Inc.",50246,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,191,"Black and orange fragile despatch tape 48mmx75m","Litware, Inc.",686530,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,192,"Black and orange fragile despatch tape 48mmx100m","Litware, Inc.",618169,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,193,"Black and orange glass with care despatch tape 48mmx75m","Litware, Inc.",50,20,50,0,1,awaiting_receipt,67296,2016-06-20
+2016-05-31,194,"Black and orange glass with care despatch tape  48mmx100m","Litware, Inc.",204993,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,195,"Black and orange handle with care despatch tape  48mmx75m","Litware, Inc.",59592,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,196,"Black and orange handle with care despatch tape  48mmx100m","Litware, Inc.",654741,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,197,"Black and orange this way up despatch tape 48mmx75m","Litware, Inc.",263108,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,198,"Black and orange this way up despatch tape  48mmx100m","Litware, Inc.",54862,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,199,"Black and yellow heavy despatch tape  48mmx75m","Litware, Inc.",5447,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,200,"Black and yellow heavy despatch tape 48mmx100m","Litware, Inc.",56445,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,201,"Red and white urgent despatch tape 48mmx75m","Litware, Inc.",153241,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,202,"Red and white urgent  heavy despatch tape  48mmx100m","Litware, Inc.",68654,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,203,"Tape dispenser (Black)","Litware, Inc.",4253,20,30,0,0,no_open_purchase,0,NULL
+2016-05-31,204,"Tape dispenser (Red)","Litware, Inc.",24,20,30,0,1,awaiting_receipt,32600,2016-06-20
+2016-05-31,205,"Tape dispenser (Blue)","Litware, Inc.",169152,20,30,0,0,no_open_purchase,0,NULL
+2016-05-31,206,"Permanent marker black 5mm nib (Black) 5mm","Litware, Inc.",306414,50,200,0,0,no_open_purchase,0,NULL
+2016-05-31,207,"Permanent marker blue 5mm nib (Blue) 5mm","Litware, Inc.",250156,50,200,0,0,no_open_purchase,0,NULL
+2016-05-31,208,"Permanent marker red 5mm nib (Red) 5mm","Litware, Inc.",251435,50,200,0,0,no_open_purchase,0,NULL
+2016-05-31,209,"Packing knife with metal insert blade (Yellow) 9mm","Litware, Inc.",104161,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,210,"Packing knife with metal insert blade (Yellow) 18mm","Litware, Inc.",128179,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,211,"Small 9mm replacement blades 9mm","Litware, Inc.",273217,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,212,"Large  replacement blades 18mm","Litware, Inc.",248979,20,50,0,0,no_open_purchase,0,NULL
+2016-05-31,213,"Air cushion film 200mmx100mm 325m","Litware, Inc.",20946,20,30,0,0,no_open_purchase,0,NULL
+2016-05-31,214,"Air cushion film 200mmx200mm 325m","Litware, Inc.",16642,20,30,0,0,no_open_purchase,0,NULL
+2016-05-31,215,"Air cushion machine (Blue)","Litware, Inc.",12530,1,2,0,0,no_open_purchase,0,NULL
+2016-05-31,216,"Void fill 100 L bag (White) 100L","Litware, Inc.",47902,10,40,0,0,no_open_purchase,0,NULL
+2016-05-31,217,"Void fill 200 L bag (White) 200L","Litware, Inc.",128916,10,40,0,0,no_open_purchase,0,NULL
+2016-05-31,218,"Void fill 300 L bag (White) 300L","Litware, Inc.",107072,10,40,0,0,no_open_purchase,0,NULL
+2016-05-31,219,"Void fill 400 L bag (White) 400L","Litware, Inc.",108124,10,40,0,0,no_open_purchase,0,NULL
+2016-05-31,220,"Novelty chilli chocolates 250g","A Datum Corporation",90360,240,500,0,0,no_open_purchase,0,NULL
+2016-05-31,221,"Novelty chilli chocolates 500g","A Datum Corporation",48228,120,250,0,0,no_open_purchase,0,NULL
+2016-05-31,222,"Chocolate beetles 250g","A Datum Corporation",69336,240,500,0,0,no_open_purchase,0,NULL
+2016-05-31,223,"Chocolate echidnas 250g","A Datum Corporation",74256,240,500,0,0,no_open_purchase,0,NULL
+2016-05-31,224,"Chocolate frogs 250g","A Datum Corporation",67488,240,500,0,0,no_open_purchase,0,NULL
+2016-05-31,225,"Chocolate sharks 250g","A Datum Corporation",119560,240,500,0,0,no_open_purchase,0,NULL
+2016-05-31,226,"White chocolate snow balls 250g","A Datum Corporation",155856,240,500,0,0,no_open_purchase,0,NULL
+2016-05-31,227,"White chocolate moon rocks 250g","A Datum Corporation",245352,240,500,0,0,no_open_purchase,0,NULL
